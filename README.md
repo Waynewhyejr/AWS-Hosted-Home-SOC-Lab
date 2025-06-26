@@ -100,33 +100,10 @@ output.logstash:
 
 ---
 
-## 📂 Directory Structure (if uploaded to GitHub)
-```
-aws-soc-home-lab/
-├── README.md
-├── sysmon-config.xml
-├── winlogbeat.yml
-├── attack-scripts/
-│   └── nmap_scan.sh
-├── diagrams/
-│   └── architecture.png
-└── notes/
-    └── log-analysis-checklist.md
-```
-
----
-
-## 📌 Notes
-- Security Onion needs time to ingest and index logs.
-- Use Elastic and Kibana dashboards for custom visualizations.
-- Limit inbound IPs in Security Groups to secure access.
-
----
-
 ## 📬 Questions or Feedback?
 You can submit issues or improvements via GitHub Issues once published.
 
 ---
 
-> **Author:** Wayne Whye Jr  
+> **Author:** Wayne Whye  
 > **Lab Date:** June 2025
