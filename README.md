@@ -96,5 +96,5 @@ You can submit issues or improvements via GitHub Issues once published.
 
 ---
 
-> **Author:** Your Name  
+> **Author:** Wayne Whye Jr 
 > **Lab Date:** June 2025
