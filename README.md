@@ -7,17 +7,8 @@ This Security Operations Center (SOC) lab simulates a cloud-based environment wh
 
 ## 🧱 Lab Architecture
 
-```text
-                 +-----------------------+
-                 |     AWS VPC/Subnet    |
-                 |                       |
-                 |  +-----------------+  |
-Local Kali VM <---> | Security Onion |<-- Sysmon (Windows)
- (VMware) Attacker |    (SIEM)       |<-- rsyslog (Ubuntu)
-                 |  +-----------------+  |
-                 |                       |
-                 +-----------------------+
-```
+![ChatGPT Image Jun 26, 2025, 02_22_29 AM](https://github.com/user-attachments/assets/cca33d6e-d716-4ce3-96e3-cbf9e9f6ade3)
+
 
 ---
 
@@ -105,5 +96,5 @@ You can submit issues or improvements via GitHub Issues once published.
 
 ---
 
-> **Author:** Wayne Whye  
+> **Author:** Your Name  
 > **Lab Date:** June 2025
