@@ -97,4 +97,7 @@ You can submit issues or improvements via GitHub Issues once published.
 ---
 
 > **Author:** Wayne Whye Jr 
+
 > **Lab Date:** June 2025
+
+> [Lab Report](https://docs.google.com/document/d/15OUa6uhjPhodIPpaI2CcmAKLoHlszltedj-ZlHNCUP8/edit?usp=sharing)
